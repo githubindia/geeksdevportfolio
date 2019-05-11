@@ -1747,6 +1747,13 @@ ul.progress-bar li p {
     width: 100%;
   }
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-top:40px;
+  margin-right: auto;
+  width: 50%;
+}
 @media (max-width: 768px) {
   .vl-portfolio-masonry-wrapper[data-col="3"] .vl-portfolio-item {
     width: 50%;
